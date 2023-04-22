@@ -1,2 +1,4 @@
-<h3 style="color:blue"> Code and files for the phymol interview <h3>
+<h3> CODE AND FILES FOR THE PHYMOL INTERVIEW <h3>
+
+In this repository are the files and codes that will be shown to the Phymol Commitee
 
