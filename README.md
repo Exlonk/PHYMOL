@@ -6,7 +6,7 @@ data science: This is a data science module designed to facilitate the developme
 </p>
 
 <p>
-phosphate: This is the code that shows how the web layout of a data science project is made with python.
+phosphate: This is the code that shows how the web layout of a data science project is made with python. You can see how it looks on my personal web page https://exlonk.netlify.app/
 </p>
 
 <p>
