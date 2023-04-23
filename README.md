@@ -14,7 +14,7 @@ preprocessing_pipeline: This is a little complex code, that was created to do di
 <p>
 
 <p>
-reactivity: This piece of code takes some gaussian files, extracts the Hirshfeld charges and made the calculation of some reactivity indexes, like the dual condensed descriptor, the fukui index, and the Anderson index, which were used in my thesis. The output of the script is an excel file like the reactivity.xlsx file in the repository.
+reactivity: This piece of code takes some gaussian files, extracts the Hirshfeld charges and made the calculation of some reactivity indexes, like the dual condensed descriptor, the fukui index, and the Anderson index, some of which were used in my thesis. The output of the script is an excel file like the reactivity.xlsx file in the repository. 
 </p>
 
 <p>
