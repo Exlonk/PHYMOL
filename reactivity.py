@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""kkhh
+"""
 Created on Tue Jun 23 15:29:18 2020
 
 @author: ex
