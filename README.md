@@ -32,5 +32,9 @@ Some fragments of the code for the data science module were taken from external 
 </p>
 
 <p>
+Note 3: The code (for the for bucle) of the preprocessing pipeline could be improved using the itertool module.
+</p>
+
+<p>
 Thanks a lot
 </p>
