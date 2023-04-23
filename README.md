@@ -28,7 +28,7 @@ Dear PHYMOL committee, almost all of the code shown in this repository was not m
 
 <p>
 Note 2: 
-Some fragments of the code for the data science module were taken from external sources.
+Some fragments of code for the data science module were taken from external sources.
 </p>
 
 <p>
