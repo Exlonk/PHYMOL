@@ -2,7 +2,7 @@
 
 In this repository are the files and codes that will be shown to the PHYMOL Commitee
 <p>
-data science: This is a data science module designed to facilitat the development of data science projects, some functions have importation of modules, this is because the function could be used as an all in other codes.
+data science: This is a data science module designed to facilitate the development of data science projects, some functions have importation of modules, this is because the function could be used as an all in other codes.
 </p>
 
 <p>
