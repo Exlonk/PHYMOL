@@ -18,7 +18,7 @@ reactivity: This piece of code takes some gaussian files, extracts the Hirshfeld
 </p>
 
 <p>
-Additionally, I have added the slides and the thesis itself to this repository in case you would like to take a more in-depth look of my work.
+Additionally, I have added the slides of my thesis and the thesis itself to this repository in case you would like to take a more in-depth look of my work.
 </p>
 <p>
 Note 1: 
