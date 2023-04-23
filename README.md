@@ -32,7 +32,7 @@ Some fragments of the code for the data science module were taken from external 
 </p>
 
 <p>
-Note 3: All code is highly susceptible to being improved, in specific the code (for the "for" loop) of the preprocessing pipeline could be improved using the itertool module.
+Note 3: All codes are highly susceptible to being improved, in specific the code (for the "for" loop) of the preprocessing pipeline could be improved using the itertool module.
 </p>
 
 <p>
