@@ -5,7 +5,8 @@ Created on Tue Jun 23 15:29:18 2020
 
 @author: ex
 """
-# Extract the Hirshfeld charges and calculate the condensed dual descriptor, Fukui and Anderson index using the Gaussian file of a molecule with a specific structure but with charges of 0, -1, +1. For gaussian 09 files
+# Extract the Hirshfeld charges and calculate the condensed dual descriptor, Fukui 
+# and Anderson index using the Gaussian file of a molecule with a specific structure but with charges of 0, -1, +1. For gaussian 09 files
 
 import re,os
 from openpyxl import Workbook,load_workbook
