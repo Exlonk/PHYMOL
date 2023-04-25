@@ -18,7 +18,7 @@ reactivity: This piece of code takes some gaussian files, extracts the Hirshfeld
 </p>
 
 <p>
-Additionally, I have added the slides of my thesis and the thesis itself to this repository in case you would like to take a more in-depth look of my work.
+Additionally, I have added the slides of my thesis and the thesis itself to this repository in case you would like to take a more in-depth look of my work. Also I added slides called numerical_methods about some methods that I implemented to solve the 1-D particle in a box with infinite potential (It was made in 2019)
 </p>
 <p>
 Note 1: 
